@@ -5,5 +5,5 @@ This simple application allows users to effortlessly remove backgrounds from ima
 
 ## Features
 - **Background Removal**: Easily eliminate backgrounds from images with just a click.
-- **Cute Filters**: Applies filters to enhance your photos and give them a playful touch.
+- **Filter Application**: Applies filters to enhance your photos and give them a playful touch.
 - **Bouncy Button Interface**: A fun long-press interaction button with a cool animation to confirm user intentions
