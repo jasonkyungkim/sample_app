@@ -3,9 +3,10 @@
 ## Overview
 This app serves as a compilation of features developed for my side project, created specifically for demonstration purposes.
 
-- **SwiftUI Image Cropper and Filter**: A custom image picker and processing solution for iOS that combines sophisticated cropping capabilities with special visual effects.
+## SwiftUI Image Cropper and Filter
+A custom image picker and processing solution for iOS that combines sophisticated cropping capabilities with special visual effects.
 
-## Features
+### Features
 - Custom circular image cropping with interactive gestures
 - Zoom and pan functionality with grid overlay
 - Subject isolation using Vision framework
@@ -13,12 +14,12 @@ This app serves as a compilation of features developed for my side project, crea
 - Preview mode to compare original and filtered images
 - Haptic feedback for better user experience
 
-## Components
+### Components
 - `CustomImagePicker`: Handles image selection and presents the crop interface
 - `CropView`: Provides interactive cropping functionality
 - `CropImageView`: Main view that combines picking, cropping, and filtering capabilities
 
-## Technical Details
+### Technical Details
 - Built with SwiftUI and Vision framework
 - Uses `PhotosPicker` for image selection
 - Implements custom gesture handling for image manipulation
